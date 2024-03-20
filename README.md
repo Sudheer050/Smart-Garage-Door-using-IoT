@@ -1,0 +1,4 @@
+Garage doors are too heavy and take a lot of effort to open and close. In this age of IoT where everything is connected to the internet, we should also improve it. Imagine effortlessly opening your garage door with just a tap on your smartphone, that is exactly what we are going to build in this smart garage door IoT project and we will be using an ESP32 development board and Arduino IDE to build this project.
+![Screenshot 2024-03-20 104318](https://github.com/Sudheer050/Smart-Garage-Door-using-IoT/assets/139902006/23ace588-14d9-4dac-8e00-152c80c2cca4)
+![Screenshot 2024-03-20 104338](https://github.com/Sudheer050/Smart-Garage-Door-using-IoT/assets/139902006/446f3389-edea-4db5-a90d-06639ebf5866)
+![Screenshot 2024-03-20 104922](https://github.com/Sudheer050/Smart-Garage-Door-using-IoT/assets/139902006/32a931b3-720b-4dc1-942c-6c61ef5e5c79)
