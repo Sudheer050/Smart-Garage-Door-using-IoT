@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"BAT1",1," 9V Battery"
+"M1",1," DC Motor"
+"U2",1," 5V Regulator [LM7805]"
+"U1",1," Arduino Uno R3"
+"S2",1," Slideswitch"
+"D1",1,"Blue LED"
+"D2",1,"Green LED"
+"PIR1",1,"97.61586285890439 , -119.59002181268707 , -119.59002181268707 , -423.03123962009624  PIR Sensor"
